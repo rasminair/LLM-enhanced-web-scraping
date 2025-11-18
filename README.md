@@ -1,4 +1,4 @@
-# LLM-Enhanced Web Scraping Pipeline: From Data Extraction to Insight using Ollama
+# LLM-Enhanced Web Scraping Pipeline: From data extraction to insight using Ollama
 The web is a constantly evolving ecosystem filled with valuable but unstructured information. This project demonstrates a full end-to-end data analysis pipeline that automates the entire journey—from collecting real-time data to generating meaningful insights. Using Selenium, the system scrapes fresh, live data directly from the source without any manual downloads or exports. The raw data is then processed with an integrated LLM powered by Ollama, which cleans, structures, summarizes, and interprets the scraped content. The result is an intelligent, LLM-enhanced workflow that transforms messy web data into clear, actionable insights, showcasing a complete stack from extraction to understanding.
 
 <h2>Tech Stack</h2>
